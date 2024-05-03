@@ -1,0 +1,53 @@
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\bin\Debug\Actividad_2.exe.config
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\bin\Debug\Actividad_2.exe
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\bin\Debug\Actividad_2.pdb
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\bin\Debug\dominio.dll
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\bin\Debug\manager.dll
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\bin\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\bin\Debug\manager.pdb
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\winform-app.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.Form1.resources
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormAgregarArticulo.resources
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormAgregarImagen.resources
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormAgregarMarca.resources
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormAltaCategoria.resources
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormArticulos.resources
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormCategorias.resources
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormEditarCategoria.resources
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormEditarMarca.resources
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormEliminarCategoria.resources
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormEliminarMarca.resources
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormMarcas.resources
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\winform-app.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\winform-app.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\winform-.0F641084.Up2Date
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.exe
+C:\Users\Usuario\Desktop\Actividad 2\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.pdb
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\bin\Debug\Actividad_2.exe.config
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\bin\Debug\Actividad_2.exe
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\bin\Debug\Actividad_2.pdb
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\bin\Debug\dominio.dll
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\bin\Debug\manager.dll
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\bin\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\bin\Debug\manager.pdb
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\winform-app.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.Form1.resources
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormAgregarArticulo.resources
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormAgregarImagen.resources
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormAgregarMarca.resources
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormAltaCategoria.resources
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormArticulos.resources
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormCategorias.resources
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormEditarCategoria.resources
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormEditarMarca.resources
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormEliminarCategoria.resources
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormEliminarMarca.resources
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormMarcas.resources
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\winform-app.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\winform-app.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\winform-.0F641084.Up2Date
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.exe
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.pdb
+C:\Users\Usuario\Desktop\Actividad 2 - copia\tp-winform-equipo-8\Actividad_2\obj\Debug\Actividad_2.FormEliminarImagenes.resources
